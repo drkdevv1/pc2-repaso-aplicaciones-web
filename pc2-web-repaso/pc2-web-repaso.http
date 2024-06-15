@@ -1,0 +1,6 @@
+@pc2_web_repaso_HostAddress = http://localhost:5101
+
+GET {{pc2_web_repaso_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

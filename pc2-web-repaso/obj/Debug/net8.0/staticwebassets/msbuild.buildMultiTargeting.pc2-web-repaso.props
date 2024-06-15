@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\pc2-web-repaso.props" />
+</Project>
